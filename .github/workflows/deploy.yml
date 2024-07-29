@@ -17,4 +17,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: https://github.com/Erick-A-Martins/jogo-numero-secreto/tree/main/Curso2
+          publish_dir: Curso2
