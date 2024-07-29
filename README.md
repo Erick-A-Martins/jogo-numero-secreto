@@ -25,3 +25,5 @@ Neste projeto, os principais aprendizados incluem:
 
 ## 🚀 Tecnologia utilizada
 - JavaScript
+
+### [Acesse o Projeto aqui!](https://Erick-A-Martins.github.io/jogo-numero-secreto/)
